@@ -1,6 +1,6 @@
-from plan_builder import build_plan
-from export_plan import export_plan_to_csv
-from validate_inputs import validate_weekly_miles, validate_goal
+from pt_planner.builder import build_plan
+from pt_planner.export import export_plan_to_csv
+from pt_planner.validate import validate_weekly_miles, validate_goal
 
 def main():
     start_miles = 25
