@@ -1,5 +1,5 @@
 # general-python-guide
-A short guide on an introduction to Python
+A short guide on an introduction to Python.
 
 Assuming you follow the guide correctly you will create the following .py files:
 
@@ -35,7 +35,5 @@ Assuming you follow the guide correctly you will create the following .py files:
     - validate.py
 
 ### Module 8
-
-
-### Module 9
-
+- pt_planner/
+    - adaptive.py
